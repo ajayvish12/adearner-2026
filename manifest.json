@@ -1,0 +1,102 @@
+{
+  "id": "/",
+  "name": "AdEarner 2026",
+  "short_name": "AdEarner",
+  "description": "Earn rewards by watching videos and monetize your content through AdMob integration",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8b5cf6",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/favicon-verified.dim_32x32.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/Screenshot_20260130_012859_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Browse Videos"
+    },
+    {
+      "src": "/assets/Screenshot_20260130_014218_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Video Player"
+    },
+    {
+      "src": "/assets/Screenshot_20260130_020057_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Wallet View"
+    },
+    {
+      "src": "/assets/Screenshot_20260130_024648_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Upload Content"
+    },
+    {
+      "src": "/assets/Screenshot_20260130_113131_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Advertiser Portal"
+    },
+    {
+      "src": "/assets/Screenshot_20260130_114401_Chrome.jpg",
+      "sizes": "1080x2400",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "AdEarner 2026 - Campaign Management"
+    }
+  ],
+  "categories": ["entertainment", "video", "social"]
+}
