@@ -8,6 +8,7 @@ import ProfileSetup from './components/ProfileSetup';
 import HomePage from './pages/HomePage';
 import InstallPrompt from './components/InstallPrompt';
 import { Loader2 } from 'lucide-react';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 export default function App() {
   const { identity, isInitializing } = useInternetIdentity();
@@ -36,6 +37,7 @@ export default function App() {
         <Footer />
         <Toaster />
         <InstallPrompt />
+        <SpeedInsights />
       </div>
     </ThemeProvider>
   );
